@@ -24,15 +24,4 @@ Santa Shop é um site de e-commerce fictício que apresenta uma coleção exclus
 - **Biblioteca Remix Icon**: Ícones para navegação e redes sociais.
 - **ScrollReveal.js**: Efeitos de animação para uma experiência visual aprimorada.
 
-## Estrutura do Projeto
-
-Abaixo está uma visão geral das principais seções do site:
-
-- **Header**: Navegação, logo, e um banner promocional com uma chamada para ação.
-- **Seção de Coleção Festiva**: Descrição e botão para explorar a coleção completa de itens natalinos.
-- **Categorias de Produtos**: Seção com cartões de produtos organizados por categoria.
-- **Lista de Compras de Natal**: Produtos populares com preços e imagens.
-- **Decoração da Temporada**: Destaque para guirlandas e outros itens decorativos.
-- **Formulário para Cupons**: Inscrição para receber descontos.
-- **Footer**: Links institucionais, redes sociais e informações de direitos autorais.
 
